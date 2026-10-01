@@ -1,0 +1,6 @@
+{
+  "name": "JS Cake Shop",
+  "description": "Artisan cake shop with real-time order tracking in English and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
